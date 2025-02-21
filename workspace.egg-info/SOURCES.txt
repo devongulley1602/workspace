@@ -1,0 +1,9 @@
+pyproject.toml
+setup.py
+workspace/__init__.py
+workspace/core.py
+workspace.egg-info/PKG-INFO
+workspace.egg-info/SOURCES.txt
+workspace.egg-info/dependency_links.txt
+workspace.egg-info/requires.txt
+workspace.egg-info/top_level.txt
