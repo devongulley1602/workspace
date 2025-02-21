@@ -1,0 +1,15 @@
+[build-system]
+requires = ["setuptools>=64"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "workspace"
+version = "0.1"
+description = "Useful packages for an interactive Python workspace"
+authors = [{ name = "Devon Gulley", email = "devongulley1602@gmail.com" }]
+dependencies = [
+    "numpy",
+    "xarray",
+    "pandas"
+]
+

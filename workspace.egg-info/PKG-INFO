@@ -1,0 +1,8 @@
+Metadata-Version: 2.2
+Name: workspace
+Version: 0.1
+Summary: Useful packages for an interactive Python workspace
+Author-email: Devon Gulley <devongulley1602@gmail.com>
+Requires-Dist: numpy
+Requires-Dist: xarray
+Requires-Dist: pandas
